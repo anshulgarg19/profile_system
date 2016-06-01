@@ -1,0 +1,120 @@
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ ***************************************************************************/
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#top
+{
+    /* center contents */
+    text-align: center;
+    background-color:#18208F;
+    -webkit-border-radius:4px;
+}
+
+#middle
+{
+    /* center contents */
+    text-align: center;
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+
+    /* center contents */
+    text-align: center;
+}
+
+#bmi
+{
+     margin:40px;
+}
+#user
+{
+     margin:60px;
+}
+#bmi form table tr th
+{
+     padding:20px;
+     color:#8B4513;
+}
+#bmi form table tr td
+{
+    padding:10px;
+}
+#bmi table tr td
+{
+   padding:10px;
+}
+#app {
+    margin:30px;
+    font-size:15px;
+    }
+.empty{
+margin:170px;}  
+#intro{
+   padding:10px 1100px 10px 40px;
+}
+.info table tr th
+{
+    color:#8B4513;
+    padding:5px 0px 0px 190px;
+}  
+.info table tr td
+{
+     font-size:18px;
+     font-weight:regular;
+}
+#edit
+{
+     padding:5px 30px 4px 1200px;
+ }
+ 
+.rem table tr th
+{
+    color:#8B4513;
+    padding:5px 0px 0px 40px;
+}   
+.editinfo{ 
+    margin:20px;
+    }
+.editinfo table tr th{
+   color:#8B4513;
+   padding:5px 0px 0px 190px;  }
+.editinfo table tr td{
+   font-size:18px;
+   font-weight:regular;
+   }        
+#save{
+    margin:10px;}   
+#spe,.spe{
+    margin:20px;
+    color:#008B8B;
+    font-size:20px;
+    }  
+     
+#bmtab{
+   background-color:#F8F8FF;
+    border-radius:4px;
+    margin:20px;}    
+#bmtab table tr th{
+    color:#8B4513;}
+#bmtab table tr td{
+    color:#DC143C; }
+#app{
+   margin:20px;}       
